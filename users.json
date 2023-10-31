@@ -1,0 +1,17 @@
+{
+    "shahriar@gmail.com": {
+        "username": "shahriar",
+        "password": "0112",
+        "role": "admin"
+    },
+    "safwan@gmail.com": {
+        "username": "safwan",
+        "password": "1212",
+        "role": "user"
+    },
+    "tamanna@yahoo.com": {
+        "username": "tamanna",
+        "password": "1234",
+        "role": ""
+    }
+}
